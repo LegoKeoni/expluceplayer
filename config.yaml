@@ -38,7 +38,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: 
 
     footer:
         since: 2018
@@ -54,7 +54,7 @@ params:
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/expluce-player-icon-transparent-may-2020.png
 
     article:
         math: false
@@ -160,7 +160,7 @@ params:
     opengraph:
         twitter:
             # Your Twitter username
-            site:
+            site: expluceplayer
 
             # Available values: summary, summary_large_image
             card: summary_large_image
@@ -193,13 +193,13 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/collnod/expluceplayer
           params:
               icon: brand-github
 
         - identifier: twitter
           name: Twitter
-          url: https://twitter.com
+          url: https://twitter.com/expluceplayer
           params:
               icon: brand-twitter
 
