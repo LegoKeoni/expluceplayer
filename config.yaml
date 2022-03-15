@@ -28,6 +28,11 @@ permalinks:
     post: /p/:slug/
     page: /:slug/
 
+taxonomies:
+    category: categories
+    series: series
+    tag: tags
+
 params:
     mainSections:
         - post

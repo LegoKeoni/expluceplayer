@@ -6,6 +6,11 @@
                 {{ .LinkTitle }}
             </a>
         {{ end }}
+        {{ range (.GetTerms "series") }}
+            <a href="{{ .RelPermalink }}" {{ with .Params.style }}style="background-color: {{ .background }}; color: {{ .color }};"{{ end }}>
+                {{ .LinkTitle }}
+            </a>
+        {{ end }}
     </header>
     {{ end }}
 

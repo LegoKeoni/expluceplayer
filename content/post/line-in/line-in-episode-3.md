@@ -3,9 +3,8 @@ author = "Keoni D'Souza"
 title = "Line in, Episode 3"
 date = "2021-06-23"
 description = "(3/3) Ben’s on again! Yay!"
-categories = [
-    "audio",
-]
+categories = ["audio"]
+series = ["Line in"]
 tags = [
     "Ben Allen",
     "The Ben Allen Trilogy",

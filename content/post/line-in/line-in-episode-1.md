@@ -3,9 +3,8 @@ author = "Keoni D'Souza"
 title = "Line in, Episode 1"
 date = "2021-06-09"
 description = "(1/3) The first episode of the final part of Ben Allen’s The Aux Cord trilogy, live from Studio Bed"
-categories = [
-    "audio",
-]
+categories = ["audio"]
+series = ["Line in"]
 tags = [
     "Ben Allen",
     "The Ben Allen Trilogy",
