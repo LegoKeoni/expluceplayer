@@ -1,11 +1,11 @@
 {{- $ThemeVersion := "3.10.0" -}}
 <footer class="site-footer">
     <section class="copyright">
-        &copy; 
+        &copy; Copyright Keoni D'Souza
         {{ if and (.Site.Params.footer.since) (ne .Site.Params.footer.since (int (now.Format "2006"))) }}
             {{ .Site.Params.footer.since }} - 
         {{ end }}
-        {{ now.Format "2006" }} Collnod Ltd | All Rights Reserved
+        {{ now.Format "2006" }} | All Rights Reserved
     </section>
     
     <section class="powerby">
