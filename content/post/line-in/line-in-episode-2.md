@@ -3,6 +3,9 @@ author = "Keoni D'Souza"
 title = "Line in, Episode 2"
 date = "2021-06-16"
 description = "(2/3) The filling in the sandwich that is the last part of the Ben Allen Trilogy"
+categories = [
+    "audio",
+]
 tags = [
     "Ben Allen",
     "The Ben Allen Trilogy",

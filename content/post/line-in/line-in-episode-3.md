@@ -1,8 +1,11 @@
 +++
 author = "Keoni D'Souza"
 title = "Line in, Episode 3"
-date = "2021-06-16"
+date = "2021-06-23"
 description = "(3/3) Ben’s on again! Yay!"
+categories = [
+    "audio",
+]
 tags = [
     "Ben Allen",
     "The Ben Allen Trilogy",
@@ -25,7 +28,7 @@ image = "line-in-artwork.png"
 
 | Track	| Artist | Time |
 | --- | --- | --- |
-| True Survivor	David Hasselhoff | 12:07 |
+| True Survivor	| David Hasselhoff | 12:07 |
 | Lovin' You | Minnie Riperton | 12:13 |
 | Closer | Sea Girls | 12:25 |
 | Run | OneRepublic | 12:32 |
