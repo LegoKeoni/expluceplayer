@@ -6,7 +6,25 @@
         <description>Recent content on Expluce Player</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://beta.expluceplayer.co.uk/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 16 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://beta.expluceplayer.co.uk/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>https://beta.expluceplayer.co.uk/about.html</link>
+        <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://beta.expluceplayer.co.uk/about.html</guid>
+        <description>&lt;h2 id=&#34;welcome&#34;&gt;Welcome&lt;/h2&gt;
+&lt;p&gt;Welcome to &lt;strong&gt;Expluce Player&lt;/strong&gt;, the home of audiovisual content from the mind of me - Keoni D&amp;rsquo;Souza!&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve contributed to an ever-increasing collection of radio shows, podcasts and have presented a handful of recorded productions. I am - slowly, but surely - updating this site so that people (mainly me&amp;hellip;) can enjoy my unimitable brand of top-quality low-quality content.&lt;/p&gt;
+&lt;p&gt;Organised into overarching categories (audio and video) and series (for continuing content), each audio and video clip is accompanied by tags to help mark regular co-contributors and original broadcast partners (including Xtreme Radio, University Radio York and York Student Television).&lt;/p&gt;
+&lt;p&gt;So, have a look around - you may find something that you wouldn&amp;rsquo;t even want to share with even your worst enemy&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Keoni&lt;/p&gt;
+&lt;h2 id=&#34;expluce&#34;&gt;Expluce&lt;/h2&gt;
+&lt;p&gt;I started branding everything I made since late 2010 with &lt;em&gt;KD Group&lt;/em&gt; to add my mark and help communicate that I was behind it. On 10th September 2013, the brand changed to &lt;em&gt;Expluce&lt;/em&gt; (originally with an exclamation mark), a portmanteau formed from the slogan, &lt;em&gt;Exploring excitement, inducing success&lt;/em&gt;. In 2017, &lt;strong&gt;Expluce Player&lt;/strong&gt; was launched with the aim to host my plethora of audio and video content all in one place.&lt;/p&gt;
+&lt;h2 id=&#34;collnod&#34;&gt;Collnod&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Collnod Ltd&lt;/em&gt; was formed on 28th December 2021 to facilitate employment contracts for freelance media opportunities. It is registered at 86-90 Paul Street, London, EC2A 4NE. Acting as a portfolio, since April, &lt;strong&gt;Expluce Player&lt;/strong&gt; has been funded and hosted by &lt;em&gt;Collnod Ltd&lt;/em&gt;.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Line in, Episode 3</title>
         <link>https://beta.expluceplayer.co.uk/line-in/episode-3.html</link>
         <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
@@ -509,34 +527,6 @@
         
         <guid>https://beta.expluceplayer.co.uk/archives.html</guid>
         <description></description>
-        </item>
-        <item>
-        <title>About</title>
-        <link>https://beta.expluceplayer.co.uk/about.html</link>
-        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://beta.expluceplayer.co.uk/about.html</guid>
-        <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
-&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/yuin/goldmark&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/alecthomas/chroma&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/muesli/smartcrop&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/cobra&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/viper&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;
-&lt;p&gt;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p&gt;
-&lt;p&gt;Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;
-&lt;p&gt;Learn more and contribute on &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-</description>
         </item>
         <item>
         <title>Links</title>
