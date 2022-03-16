@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Example Site</title>
-        <link>https://example.com/</link>
-        <description>Recent content on Example Site</description>
+        <title>Expluce Player</title>
+        <link>https://beta.expluceplayer.co.uk/</link>
+        <description>Recent content on Expluce Player</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://beta.expluceplayer.co.uk/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Line in, Episode 3</title>
-        <link>https://example.com/p/line-in-episode-3/</link>
+        <link>https://beta.expluceplayer.co.uk/p/line-in-episode-3/</link>
         <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/line-in-episode-3/</guid>
-        <description>&lt;img src="https://example.com/line-in-artwork.png" alt="Featured image of post Line in, Episode 3" /&gt;&lt;h2 id=&#34;play-episode&#34;&gt;Play episode&lt;/h2&gt;
+        <guid>https://beta.expluceplayer.co.uk/p/line-in-episode-3/</guid>
+        <description>&lt;img src="https://beta.expluceplayer.co.uk/line-in-artwork.png" alt="Featured image of post Line in, Episode 3" /&gt;&lt;h2 id=&#34;play-episode&#34;&gt;Play episode&lt;/h2&gt;
 &lt;iframe
     width=&#34;100%&#34;
     height=&#34;120&#34;
@@ -89,11 +89,11 @@
         </item>
         <item>
         <title>Line in, Episode 2</title>
-        <link>https://example.com/p/line-in-episode-2/</link>
+        <link>https://beta.expluceplayer.co.uk/p/line-in-episode-2/</link>
         <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/line-in-episode-2/</guid>
-        <description>&lt;img src="https://example.com/line-in-artwork.png" alt="Featured image of post Line in, Episode 2" /&gt;&lt;h2 id=&#34;play-episode&#34;&gt;Play episode&lt;/h2&gt;
+        <guid>https://beta.expluceplayer.co.uk/p/line-in-episode-2/</guid>
+        <description>&lt;img src="https://beta.expluceplayer.co.uk/line-in-artwork.png" alt="Featured image of post Line in, Episode 2" /&gt;&lt;h2 id=&#34;play-episode&#34;&gt;Play episode&lt;/h2&gt;
 &lt;iframe
     width=&#34;100%&#34;
     height=&#34;120&#34;
@@ -190,11 +190,11 @@
         </item>
         <item>
         <title>Line in, Episode 1</title>
-        <link>https://example.com/p/line-in-episode-1/</link>
+        <link>https://beta.expluceplayer.co.uk/p/line-in-episode-1/</link>
         <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/line-in-episode-1/</guid>
-        <description>&lt;img src="https://example.com/line-in-artwork.png" alt="Featured image of post Line in, Episode 1" /&gt;&lt;h2 id=&#34;play-episode&#34;&gt;Play episode&lt;/h2&gt;
+        <guid>https://beta.expluceplayer.co.uk/p/line-in-episode-1/</guid>
+        <description>&lt;img src="https://beta.expluceplayer.co.uk/line-in-artwork.png" alt="Featured image of post Line in, Episode 1" /&gt;&lt;h2 id=&#34;play-episode&#34;&gt;Play episode&lt;/h2&gt;
 &lt;iframe
     width=&#34;100%&#34;
     height=&#34;120&#34;
@@ -296,18 +296,18 @@
         </item>
         <item>
         <title>Archives</title>
-        <link>https://example.com/archives/</link>
+        <link>https://beta.expluceplayer.co.uk/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/archives/</guid>
+        <guid>https://beta.expluceplayer.co.uk/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>About</title>
-        <link>https://example.com/about/</link>
+        <link>https://beta.expluceplayer.co.uk/about/</link>
         <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/about/</guid>
+        <guid>https://beta.expluceplayer.co.uk/about/</guid>
         <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
 &lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
@@ -332,10 +332,10 @@
         </item>
         <item>
         <title>Links</title>
-        <link>https://example.com/links/</link>
+        <link>https://beta.expluceplayer.co.uk/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/links/</guid>
+        <guid>https://beta.expluceplayer.co.uk/links/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -367,10 +367,10 @@
         </item>
         <item>
         <title>Search</title>
-        <link>https://example.com/search/</link>
+        <link>https://beta.expluceplayer.co.uk/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/search/</guid>
+        <guid>https://beta.expluceplayer.co.uk/search/</guid>
         <description></description>
         </item>
         

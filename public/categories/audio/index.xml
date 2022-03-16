@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Audio on Example Site</title>
-        <link>https://example.com/categories/audio/</link>
-        <description>Recent content in Audio on Example Site</description>
+        <title>Audio on Expluce Player</title>
+        <link>https://beta.expluceplayer.co.uk/categories/audio/</link>
+        <description>Recent content in Audio on Expluce Player</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/audio/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://beta.expluceplayer.co.uk/categories/audio/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Line in, Episode 3</title>
-        <link>https://example.com/p/line-in-episode-3/</link>
+        <link>https://beta.expluceplayer.co.uk/p/line-in-episode-3/</link>
         <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/line-in-episode-3/</guid>
-        <description>&lt;img src="https://example.com/line-in-artwork.png" alt="Featured image of post Line in, Episode 3" /&gt;&lt;h2 id=&#34;play-episode&#34;&gt;Play episode&lt;/h2&gt;
+        <guid>https://beta.expluceplayer.co.uk/p/line-in-episode-3/</guid>
+        <description>&lt;img src="https://beta.expluceplayer.co.uk/line-in-artwork.png" alt="Featured image of post Line in, Episode 3" /&gt;&lt;h2 id=&#34;play-episode&#34;&gt;Play episode&lt;/h2&gt;
 &lt;iframe
     width=&#34;100%&#34;
     height=&#34;120&#34;
@@ -89,11 +89,11 @@
         </item>
         <item>
         <title>Line in, Episode 2</title>
-        <link>https://example.com/p/line-in-episode-2/</link>
+        <link>https://beta.expluceplayer.co.uk/p/line-in-episode-2/</link>
         <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/line-in-episode-2/</guid>
-        <description>&lt;img src="https://example.com/line-in-artwork.png" alt="Featured image of post Line in, Episode 2" /&gt;&lt;h2 id=&#34;play-episode&#34;&gt;Play episode&lt;/h2&gt;
+        <guid>https://beta.expluceplayer.co.uk/p/line-in-episode-2/</guid>
+        <description>&lt;img src="https://beta.expluceplayer.co.uk/line-in-artwork.png" alt="Featured image of post Line in, Episode 2" /&gt;&lt;h2 id=&#34;play-episode&#34;&gt;Play episode&lt;/h2&gt;
 &lt;iframe
     width=&#34;100%&#34;
     height=&#34;120&#34;
@@ -190,11 +190,11 @@
         </item>
         <item>
         <title>Line in, Episode 1</title>
-        <link>https://example.com/p/line-in-episode-1/</link>
+        <link>https://beta.expluceplayer.co.uk/p/line-in-episode-1/</link>
         <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/p/line-in-episode-1/</guid>
-        <description>&lt;img src="https://example.com/line-in-artwork.png" alt="Featured image of post Line in, Episode 1" /&gt;&lt;h2 id=&#34;play-episode&#34;&gt;Play episode&lt;/h2&gt;
+        <guid>https://beta.expluceplayer.co.uk/p/line-in-episode-1/</guid>
+        <description>&lt;img src="https://beta.expluceplayer.co.uk/line-in-artwork.png" alt="Featured image of post Line in, Episode 1" /&gt;&lt;h2 id=&#34;play-episode&#34;&gt;Play episode&lt;/h2&gt;
 &lt;iframe
     width=&#34;100%&#34;
     height=&#34;120&#34;

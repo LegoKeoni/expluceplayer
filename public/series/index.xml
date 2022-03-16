@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Series on Expluce Player</title>
-        <link>/series/</link>
+        <link>https://beta.expluceplayer.co.uk/series/</link>
         <description>Recent content in Series on Expluce Player</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://beta.expluceplayer.co.uk/series/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Line in</title>
-        <link>/series/line-in/</link>
+        <link>https://beta.expluceplayer.co.uk/series/line-in/</link>
         <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
         
-        <guid>/series/line-in/</guid>
+        <guid>https://beta.expluceplayer.co.uk/series/line-in/</guid>
         <description></description>
         </item>
         
