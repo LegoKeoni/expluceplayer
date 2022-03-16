@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Video on Expluce Player</title>
-        <link>https://beta.expluceplayer.co.uk/categories/video/</link>
+        <link>https://beta.expluceplayer.co.uk/categories/video.html</link>
         <description>Recent content in Video on Expluce Player</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language><atom:link href="https://beta.expluceplayer.co.uk/categories/video/index.xml" rel="self" type="application/rss+xml" />

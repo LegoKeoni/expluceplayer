@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Expluce Player</title>
-        <link>https://beta.expluceplayer.co.uk/categories/</link>
+        <link>https://beta.expluceplayer.co.uk/categories.html</link>
         <description>Recent content in Categories on Expluce Player</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://beta.expluceplayer.co.uk/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Audio</title>
-        <link>https://beta.expluceplayer.co.uk/categories/audio/</link>
+        <link>https://beta.expluceplayer.co.uk/categories/audio.html</link>
         <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
         
-        <guid>https://beta.expluceplayer.co.uk/categories/audio/</guid>
+        <guid>https://beta.expluceplayer.co.uk/categories/audio.html</guid>
         <description>&lt;img src="https://beta.expluceplayer.co.uk/categories/audio/audio-pink.svg" alt="Featured image of post Audio" /&gt;</description>
         </item>
         <item>
         <title>Video</title>
-        <link>https://beta.expluceplayer.co.uk/categories/video/</link>
+        <link>https://beta.expluceplayer.co.uk/categories/video.html</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://beta.expluceplayer.co.uk/categories/video/</guid>
+        <guid>https://beta.expluceplayer.co.uk/categories/video.html</guid>
         <description>&lt;img src="https://beta.expluceplayer.co.uk/categories/video/video-pink.svg" alt="Featured image of post Video" /&gt;</description>
         </item>
         
