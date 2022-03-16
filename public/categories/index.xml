@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Categories on Expluce Player</title>
-        <link>/categories/</link>
-        <description>Recent content in Categories on Expluce Player</description>
+        <title>Categories on Example Site</title>
+        <link>https://example.com/categories/</link>
+        <description>Recent content in Categories on Example Site</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Audio</title>
-        <link>/categories/audio/</link>
+        <link>https://example.com/categories/audio/</link>
         <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
         
-        <guid>/categories/audio/</guid>
-        <description>&lt;img src="/categories/audio/audio-pink.svg" alt="Featured image of post Audio" /&gt;</description>
+        <guid>https://example.com/categories/audio/</guid>
+        <description>&lt;img src="https://example.com/categories/audio/audio-pink.svg" alt="Featured image of post Audio" /&gt;</description>
         </item>
         <item>
         <title>Video</title>
-        <link>/categories/video/</link>
+        <link>https://example.com/categories/video/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>/categories/video/</guid>
-        <description>&lt;img src="/categories/video/video-pink.svg" alt="Featured image of post Video" /&gt;</description>
+        <guid>https://example.com/categories/video/</guid>
+        <description>&lt;img src="https://example.com/categories/video/video-pink.svg" alt="Featured image of post Video" /&gt;</description>
         </item>
         
     </channel>

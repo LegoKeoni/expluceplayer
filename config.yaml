@@ -1,14 +1,23 @@
-baseurl: /
+baseurl: https://example.com
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Expluce Player
+title: Example Site
 
 languages:
     en:
         languageName: English
-        title: Expluce Player
+        title: Example Site
         weight: 1
+    zh-cn:
+        languageName: 中文
+        title: 演示站点
+        weight: 2
+    ar:
+        languageName: عربي
+        languagedirection: rtl
+        title: موقع تجريبي
+        weight: 3
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -28,41 +37,36 @@ permalinks:
     post: /p/:slug/
     page: /:slug/
 
-taxonomies:
-    category: categories
-    series: series
-    tag: tags
-
 params:
     mainSections:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: 
+    favicon:
 
     footer:
-        since: 2018
-        customText: Expluce Player is part of Collnod Ltd
+        since: 2020
+        customText:
 
     dateFormat:
-        published: Monday 2 January 2006
-        lastUpdated: 2 Jan 2006 15:04 MST
+        published: Jan 02, 2006
+        lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        //emoji: 🍥
-        subtitle: Top-quality low-quality content from Keoni D'Souza
+        emoji: 🍥
+        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         avatar:
             enabled: true
             local: true
-            src: img/expluce-player-icon-transparent-may-2020.png
+            src: img/avatar.png
 
     article:
         math: false
         toc: true
         readingTime: true
-        //license:
-            //enabled: true
-            //default: Keoni D'Souza
+        license:
+            enabled: true
+            default: Licensed under CC BY-NC-SA 4.0
 
     comments:
         enabled: true
@@ -160,7 +164,7 @@ params:
     opengraph:
         twitter:
             # Your Twitter username
-            site: expluceplayer
+            site:
 
             # Available values: summary, summary_large_image
             card: summary_large_image
@@ -193,13 +197,13 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/collnod/expluceplayer
+          url: https://github.com/CaiJimmy/hugo-theme-stack
           params:
               icon: brand-github
 
         - identifier: twitter
           name: Twitter
-          url: https://twitter.com/expluceplayer
+          url: https://twitter.com
           params:
               icon: brand-twitter
 
