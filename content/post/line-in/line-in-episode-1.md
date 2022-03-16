@@ -11,6 +11,7 @@ tags = [
     "URY"
 ]
 image = "line-in-artwork.png"
+slug = "line-in/episode-1"
 +++
 
 ## Play episode
