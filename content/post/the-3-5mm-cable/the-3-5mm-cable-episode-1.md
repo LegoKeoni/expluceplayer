@@ -42,9 +42,9 @@ N.B. All the views communicated during this programme are those of Ben Allen’s
 | Come and Get Your Love | Redbone | 12:52 |
 | In-between | Lily Moore ft. Maverick Sabre | 12:57 |
 
-## About Line in
+## About The 3.5mm cable
 
-Join me as I play as much of Ben’s playlist from his show, The Aux Cord, from the previous week as possible. If you don’t listen to this, at least listen to his…!
+{{< synopses/cable-synopsis >}}
 
 ## Episode credits
 

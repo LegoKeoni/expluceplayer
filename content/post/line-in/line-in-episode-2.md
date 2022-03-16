@@ -41,7 +41,7 @@ slug = "line-in/episode-2"
 
 ## About Line in
 
-Yet another Aux Cord parody, join Keoni for music and other stuff, I suppose.
+{{< synopses/line-in-synopsis >}}
 
 ## Episode credits
 
