@@ -10,7 +10,7 @@ tags = [
     "The Ben Allen Trilogy",
     "URY"
 ]
-image = "line-in-artwork.png"
+image = "post/line-in/line-in-artwork.png"
 slug = "line-in/episode-3"
 +++
 

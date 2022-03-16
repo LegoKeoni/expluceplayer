@@ -10,7 +10,7 @@ tags = [
     "The Ben Allen Trilogy",
     "URY"
 ]
-image = "the-3-5mm-cable.png"
+image = "post/the-3-5mm-cable/the-3-5mm-cable.png"
 slug = "the-3-5mm-cable/episode-1"
 +++
 
