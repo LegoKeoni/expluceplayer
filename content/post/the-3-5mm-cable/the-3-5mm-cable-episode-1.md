@@ -2,7 +2,7 @@
 author = "Keoni D'Souza"
 title = "The 3.5mm cable, Episode 1"
 date = "2021-02-09"
-description = "(1/5) Join me as I play as much of Ben’s playlist from his show, The Aux Cord, from the previous week as possible. If you don’t listen to this, at least listen to his…!"
+description = "(1/5) I literally transcribed Ben's show and read the transcript."
 categories = ["audio"]
 series = ["The 3.5mm cable"]
 tags = [
@@ -20,9 +20,7 @@ slug = "the-3-5mm-cable/episode-1"
 
 ## Episode synopsis
 
-**(1/5)** It’s Tuesday, it’s primetime, it’s the totally original idea (from Ben Allen), The 3.5mm cable! If you’re feeling as sense of déjà vu, it’s because you are! Join me as I play as much of Ben’s playlist from his show, The Aux Cord, from the previous week as possible. If you don’t listen to this, at least [listen to his](https://ury.org.uk/schedule/shows/14044)…!
-
-N.B. All the views communicated during this programme are those of Ben Allen’s and not mine.
+**(1/5)** It’s Tuesday, it’s lunchtime, it’s the totally original idea (from Ben Allen), The 3.5mm cable! Join Keoni as he dials it up to 11 in his exploits of radio-based parodies. The whole show is transcribed from [episode 1 of The Aux Cord](https://ury.org.uk/schedule/shows/timeslots/148448/), so it must be stressed that all the views communicated during this programme are those of Ben Allen’s and not Keoni's.
 
 **First aired**: 12pm-1pm, Tuesday 9th February 2021
 
