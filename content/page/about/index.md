@@ -37,4 +37,4 @@ I started branding everything I made since late 2010 with *KD Group* to add my m
 
 ## Collnod
 
-*Collnod Ltd* was formed on 28th December 2021 to facilitate employment contracts for freelance media opportunities. It is registered at 86-90 Paul Street, London, EC2A 4NE. Acting as a portfolio, since April, **Expluce Player** has been funded and hosted by *Collnod Ltd*.
+*Collnod Ltd* was formed on 28th December 2021 to facilitate employment contracts for freelance media opportunities. It is registered at 86-90 Paul Street, London, EC2A 4NE. Acting as a portfolio, since April, **Expluce Player** has been funded and hosted by *Collnod Ltd*. *Collnod* is Welsh for *apostrophe*.
