@@ -40,7 +40,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon: 
+    favicon: img/expluce-player-icon-transparent-may-2020.png
 
     footer:
         since: 2018
