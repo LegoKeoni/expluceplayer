@@ -44,7 +44,6 @@ params:
 
     footer:
         since: 2018
-        customText: Expluce Player is part of Collnod Ltd
 
     dateFormat:
         published: Monday 2 January 2006
