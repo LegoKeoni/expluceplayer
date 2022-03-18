@@ -10,11 +10,11 @@ tags = [
     "The Ben Allen Trilogy",
     "URY"
 ]
-image = "post/line-in/line-in-artwork.png"
+image = "post/audio/line-in/line-in-artwork.png"
 slug = "line-in/episode-1"
 +++
 
-## Play episode
+## {{< headings/play episode >}}
 
 {{< mixcloud-player user="URY1350" show="line-in-09062021" >}}
 
