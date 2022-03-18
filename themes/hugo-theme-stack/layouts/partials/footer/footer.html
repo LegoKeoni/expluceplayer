@@ -1,5 +1,10 @@
 {{- $ThemeVersion := "3.10.0" -}}
 <footer class="site-footer">
+
+    <a href="/index.html">
+        <img src="/expluce-player-full-march-2021.png" height="50em"/>
+    </a>
+
     <section class="copyright">
         &copy; Copyright Keoni D'Souza
         {{ if and (.Site.Params.footer.since) (ne .Site.Params.footer.since (int (now.Format "2006"))) }}
