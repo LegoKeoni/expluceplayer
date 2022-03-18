@@ -14,7 +14,7 @@ image = "post/audio/the-3-5mm-cable/the-3-5mm-cable.png"
 slug = "the-3-5mm-cable/episode-1"
 +++
 
-## {{< headings/play episode >}}
+## Play episode
 
 {{< mixcloud-player user="URY1350" show="the-35mm-cable-09022021" >}}
 
