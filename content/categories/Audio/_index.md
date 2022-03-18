@@ -4,6 +4,6 @@ description: "For content based solely for those things on either side of your h
 slug: "audio"
 image: "audio-pink.svg"
 style:
-    background: "#2a9d8f"
+    background: "#2AAF8C"
     color: "#fff"
 ---

@@ -20,7 +20,7 @@ slug = "the-3-5mm-cable/episode-1"
 
 ## Episode synopsis
 
-**(1/5)** It’s Tuesday, it’s lunchtime, it’s the totally original idea (from Ben Allen), The 3.5mm cable! Join Keoni as he dials it up to 11 in his exploits of radio-based parodies. The whole show is transcribed from [episode 1 of The Aux Cord](https://ury.org.uk/schedule/shows/timeslots/148448/), so it must be stressed that all the views communicated during this programme are those of Ben Allen’s and not Keoni's.
+**(1/5)** It’s Tuesday, it’s lunchtime, it’s the totally original idea (from Ben Allen), The 3.5mm cable! Join Keoni as he dials it up to 11 in his exploits of radio-based parodies. The whole show is transcribed from [episode 1 of The Aux Cord](https://ury.org.uk/schedule/shows/timeslots/148448/), so it must be stressed that all the views communicated during this programme are those of Ben Allen and not Keoni.
 
 **First aired**: 12pm-1pm, Tuesday 9th February 2021
 
