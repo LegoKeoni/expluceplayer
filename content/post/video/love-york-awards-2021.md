@@ -19,6 +19,7 @@ tags = [
 ]
 image = "post/video/love-york-awards-2021.png"
 slug = "love-york-awards-2021"
+duration = 91
 +++
 
 {{< guidance "Contains moderate language" >}}

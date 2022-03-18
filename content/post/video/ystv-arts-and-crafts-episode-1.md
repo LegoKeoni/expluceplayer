@@ -15,6 +15,7 @@ tags = [
 ]
 image = "post/video/ystv-arts-and-crafts-episode-1.webp"
 slug = "ystv-arts-and-crafts-episode-1"
+duration = 91
 +++
 
 {{< guidance "Contains some strong language" >}}
