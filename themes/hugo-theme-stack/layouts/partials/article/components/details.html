@@ -39,11 +39,11 @@
             </div>
         {{ end }}
 
-        {{ if .Site.Params.article.readingTime }}
+        {{ if .Params.duration }}
             <div>
                 {{ partial "helper/icon" "clock" }}
-                <time class="article-time--reading">
-                    {{ T "article.readingTime" .ReadingTime }}
+                <time class="article-time--duration">
+                    {{ .Params.duration }} minutes
                 </time>
             </div>
         {{ end }}
