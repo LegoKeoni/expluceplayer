@@ -9,6 +9,7 @@ tags = [
     "Ben Allen",
     "Dan Wade",
     "Dom Hall",
+    "Guidance",
     "Izzie Norwood",
     "Joseph Sisson",
     "Rhys Milling",
@@ -22,7 +23,7 @@ slug = "love-york-awards-2021"
 
 {{< guidance "Contains moderate language" >}}
 
-## Play ceremony
+## Play
 
 {{< youtube kjXgSd50qTA >}}
 

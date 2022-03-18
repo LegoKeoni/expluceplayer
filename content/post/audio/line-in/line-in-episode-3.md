@@ -14,7 +14,7 @@ image = "post/audio/line-in/line-in-artwork.png"
 slug = "line-in/episode-3"
 +++
 
-## Play episode
+## Play
 
 {{< mixcloud-player user="URY1350" show="line-in-23062021" >}}
 
