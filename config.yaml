@@ -164,17 +164,35 @@ menu:
     main: []
 
     social:
+        - identifier: facebook
+          name: Facebook
+          url: https://facebook.com/expluceplayer
+          params:
+              icon: facebook
+
         - identifier: github
           name: GitHub
           url: https://github.com/collnod/expluceplayer
           params:
-              icon: brand-github
+              icon: github
+
+        - identifier: instagram
+          name: Instagram
+          url: https://instagram.com/expluceplayer
+          params:
+              icon: instagram
 
         - identifier: twitter
           name: Twitter
           url: https://twitter.com/expluceplayer
           params:
-              icon: brand-twitter
+              icon: twitter
+
+        - identifier: youtube
+          name: Youtube
+          url: https://youtube.com/channel/UCC88ETVfeZSTg6E1173W1bQ
+          params:
+              icon: youtube
 
 related:
     includeNewer: true

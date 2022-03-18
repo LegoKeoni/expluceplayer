@@ -7,7 +7,7 @@ menu:
     main: 
         weight: -90
         params:
-            icon: user
+            icon: about
 links:
   - title: Personal website
     description: Visit my personal site
