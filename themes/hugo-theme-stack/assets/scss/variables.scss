@@ -25,6 +25,10 @@ $defaultTagColors: #fff, #fff;
     --scrollbar-thumb: #894d71;
     --scrollbar-track: var(--body-background);
 
+    h2 {
+        color: #894d71;
+    }
+
     &[data-scheme="dark"] {
         --body-background: #303030;
         --accent-color: #f78da7;
@@ -33,6 +37,10 @@ $defaultTagColors: #fff, #fff;
         --body-text-color: #f78da7;
         --scrollbar-thumb: #f78da7;
         --scrollbar-track: var(--body-background);
+
+        h2 {
+            color: #f78da7;
+        }
     }
 }
 
