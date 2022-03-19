@@ -2,7 +2,7 @@
 author = "Keoni D'Souza"
 title = "The 3.5mm cable, Episode 4"
 date = "2021-03-09"
-description = "(3/5) The 3.5mm cable, Episode 4"
+description = "(4/5) I'm very tired today."
 categories = ["audio"]
 series = ["The 3.5mm cable"]
 tags = [
