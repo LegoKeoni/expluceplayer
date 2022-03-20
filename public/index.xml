@@ -925,16 +925,21 @@
 &lt;/td&gt;
     
 &lt;/tr&gt;
-    &lt;!-- &lt;tr&gt;
-    
     &lt;tr&gt;
-     --&gt;
-    &lt;!-- &lt;tr&gt;
-     --&gt;
+    
+        &lt;td&gt;
+    
+            Role
+        
+&lt;/td&gt;
+        &lt;td&gt;
+    
+            Person&lt;br&gt;Another person
+        
+&lt;/td&gt;
+    
+&lt;/tr&gt;
 
-&lt;/tr&gt;
-&lt;/tr&gt;
-&lt;/tr&gt;
 &lt;/table&gt;
 </description>
         </item>

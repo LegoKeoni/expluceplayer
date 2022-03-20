@@ -50,16 +50,21 @@ duration = 60
 | Presenter | Connor Sanders |
 | Guests | Sophie Bolwell-Davies<br>Joe Radford |
 
-{{< headerless/table >}}
-    {{< headerless/row >}}
-        {{< headerless/data >}}
+{{< table >}}
+    {{< tr >}}
+        {{< td >}}
             Role
-        {{< /headerless/data >}}
-        {{< headerless/data >}}
+        {{< /td >}}
+        {{< td >}}
             Person<br>Another person
-        {{< /headerless/data >}}
-    {{< /headerless/row >}}
-    <!-- {{< headerless/row "Presenter / Producer" "Keoni D’Souza" >}}
-    {{< headerless/row "Presenter" "Connor Sanders" >}} -->
-    <!-- {{< headerless/row "Guests" "Sophie Bolwell-Davies<br>Joe Radford" >}} -->
-{{< /headerless/table >}}
+        {{< /td >}}
+    {{< /tr >}}
+    {{< tr >}}
+        {{< td >}}
+            Role
+        {{< /td >}}
+        {{< td >}}
+            Person<br>Another person
+        {{< /td >}}
+    {{< /tr >}}
+{{< /table >}}
