@@ -96,6 +96,14 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+&lt;table&gt;
+    
+    &lt;tr&gt;
+    &lt;td&gt;first&lt;/td&gt;
+    &lt;td&gt;second&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;/table&gt;
 </description>
         </item>
         
