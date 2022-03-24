@@ -30,10 +30,45 @@ Stirky presents a lockdown show with a difference - he's never presented before,
 
 ## Credits
 
-| []() | []() |
-| --- | --- |
-| Presenter | Will Stirk |
-| Presenter / Judge | Sophie Bolwell-Davies |
-| Vision Mixer | Kira Moore |
-| Livestream Technician | Dom Hall |
-| Guests | Keoni D'Souza<br>Mustafa Koprulu |
+{{< table >}}
+    {{< tr >}}
+        {{< td >}}
+            Presenter
+        {{< /td >}}
+        {{< td >}}
+            Will Stirk
+        {{< /td >}}
+    {{< /tr >}}
+    {{< tr >}}
+        {{< td >}}
+            Presenter / Judge
+        {{< /td >}}
+        {{< td >}}
+            Sophie Bolwell-Davies
+        {{< /td >}}
+    {{< /tr >}}
+    {{< tr >}}
+        {{< td >}}
+            Vision Mixer
+        {{< /td >}}
+        {{< td >}}
+            Kira Moore
+        {{< /td >}}
+    {{< /tr >}}
+    {{< tr >}}
+        {{< td >}}
+            Livestream Technician
+        {{< /td >}}
+        {{< td >}}
+            Dom Hall
+        {{< /td >}}
+    {{< /tr >}}
+        {{< tr >}}
+        {{< td >}}
+            Guests
+        {{< /td >}}
+        {{< td >}}
+            Keoni D'Souza<br>Mustafa Koprulu
+        {{< /td >}}
+    {{< /tr >}}
+{{< /table >}}

@@ -47,7 +47,21 @@ A special programme to lead into URY’s Candidate Interview Night. Join Keoni f
 
 ## Episode credits
 
-| []() | []() |
-| --- | --- |
-| Presenter / Producer | Keoni D’Souza |
-| Based on an idea that was based on an idea by | Ben Allen |
+{{< table >}}
+    {{< tr >}}
+        {{< td >}}
+            Presenter / Producer
+        {{< /td >}}
+        {{< td >}}
+            Keoni D'Souza
+        {{< /td >}}
+    {{< /tr >}}
+    {{< tr >}}
+        {{< td >}}
+            Based on an idea that was based on an idea by
+        {{< /td >}}
+        {{< td >}}
+            Ben Allen
+        {{< /td >}}
+    {{< /tr >}}
+{{< /table >}}

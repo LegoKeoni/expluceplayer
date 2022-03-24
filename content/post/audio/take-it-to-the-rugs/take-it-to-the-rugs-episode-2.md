@@ -44,27 +44,29 @@ duration = 60
 
 ## Episode credits
 
-| []() | []() |
-| --- | --- |
-| Presenter / Producer | Keoni D’Souza |
-| Presenter | Connor Sanders |
-| Guests | Sophie Bolwell-Davies<br>Joe Radford |
-
 {{< table >}}
     {{< tr >}}
         {{< td >}}
-            Role
+            Presenter / Producer
         {{< /td >}}
         {{< td >}}
-            Person<br>Another person
+            Keoni D'Souza
         {{< /td >}}
     {{< /tr >}}
     {{< tr >}}
         {{< td >}}
-            Role
+            Presenter
         {{< /td >}}
         {{< td >}}
-            Person<br>Another person
+            Connor Sanders
+        {{< /td >}}
+    {{< /tr >}}
+    {{< tr >}}
+        {{< td >}}
+            Guests
+        {{< /td >}}
+        {{< td >}}
+            Sophie Bolwell-Davies<br>Joe Radford
         {{< /td >}}
     {{< /tr >}}
 {{< /table >}}

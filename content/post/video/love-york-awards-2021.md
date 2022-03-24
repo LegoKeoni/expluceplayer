@@ -34,9 +34,37 @@ The University of York Students’ Union presents the Love York Awards. Broadcas
 
 ## Credits
 
-| []() | []() |
-| --- | --- |
-| Presenters | Keoni D’Souza<br>Izzie Norwood |
-| Presenters chosen by | Alize Akturk |
-| Sabbatical officers | Maddie Cannell<br>Matt Johnstone<br>Patrick O’Donnell<br>Carly Precious |
-| With thanks to | TechSoc<br>University Radio York (URY)<br>York Student Television (YSTV)<br>University of York Students’ Union (YUSU) |
+{{< table >}}
+    {{< tr >}}
+        {{< td >}}
+            Presenters
+        {{< /td >}}
+        {{< td >}}
+            Keoni D'Souza<br>Izzie Norwood
+        {{< /td >}}
+    {{< /tr >}}
+    {{< tr >}}
+        {{< td >}}
+            Presenters chosen by
+        {{< /td >}}
+        {{< td >}}
+            Alize Akturk
+        {{< /td >}}
+    {{< /tr >}}
+    {{< tr >}}
+        {{< td >}}
+            Sabbatical officers
+        {{< /td >}}
+        {{< td >}}
+            Maddie Cannell<br>Matt Johnstone<br>Patrick O’Donnell<br>Carly Precious
+        {{< /td >}}
+    {{< /tr >}}
+    {{< tr >}}
+        {{< td >}}
+            With thanks to
+        {{< /td >}}
+        {{< td >}}
+            University of York Technical Theatre Society (TechSoc)<br>University Radio York (URY)<br>York Student Television (YSTV)<br>University of York Students’ Union (YUSU)
+        {{< /td >}}
+    {{< /tr >}}
+{{< /table >}}

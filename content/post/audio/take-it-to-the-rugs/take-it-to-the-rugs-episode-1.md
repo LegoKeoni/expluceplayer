@@ -45,8 +45,29 @@ duration = 60
 
 ## Episode credits
 
-| []() | []() |
-| --- | --- |
-| Presenter / Producer | Keoni D’Souza |
-| Presenter | Connor Sanders |
-| Guest | Rhys Milling |
+{{< table >}}
+    {{< tr >}}
+        {{< td >}}
+            Presenter / Producer
+        {{< /td >}}
+        {{< td >}}
+            Keoni D'Souza
+        {{< /td >}}
+    {{< /tr >}}
+    {{< tr >}}
+        {{< td >}}
+            Presenter
+        {{< /td >}}
+        {{< td >}}
+            Connor Sanders
+        {{< /td >}}
+    {{< /tr >}}
+    {{< tr >}}
+        {{< td >}}
+            Guest
+        {{< /td >}}
+        {{< td >}}
+            Rhys Milling
+        {{< /td >}}
+    {{< /tr >}}
+{{< /table >}}
