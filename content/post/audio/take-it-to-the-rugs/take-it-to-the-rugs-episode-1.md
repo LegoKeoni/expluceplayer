@@ -27,17 +27,17 @@ duration = 60
 
 ## Tracklist
 
-| Track | Artist | Time |
-| --- | --- | --- |
-| Rug Cutter’s Swing | Glenn Miller | 21:05 |
-| Old Man | Neil Young | 21:08 |
-| Danger! High Voltage | Electric Six | 21:17 |
-| Karma Chameleon | Culture Club | 21:21 |
-| The Hardest Button to Button | The White Stripes | 21:29 |
-| Cut And Run | Slaves | 21:37 |
-| Mister Sandman | The Chordettes | 21:43 |
-| Today | The Smashing Pumpkins | 21:49 |
-| Light On | Maggie Rogers | 21:53 |
+| Track                        | Artist                | Time  |
+|------------------------------|-----------------------|-------|
+| Rug Cutter’s Swing           | Glenn Miller          | 21:05 |
+| Old Man                      | Neil Young            | 21:08 |
+| Danger! High Voltage         | Electric Six          | 21:17 |
+| Karma Chameleon              | Culture Club          | 21:21 |
+| The Hardest Button to Button | The White Stripes     | 21:29 |
+| Cut And Run                  | Slaves                | 21:37 |
+| Mister Sandman               | The Chordettes        | 21:43 |
+| Today                        | The Smashing Pumpkins | 21:49 |
+| Light On                     | Maggie Rogers         | 21:53 |
 
 ## About Take it to the Rugs
 

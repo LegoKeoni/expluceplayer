@@ -27,19 +27,19 @@ A special programme to lead into URY’s Candidate Interview Night. Join Keoni f
 
 ## Tracklist
 
-| Track | Artist | Time |
-| --- | --- | --- |
-| Something Got Me Started | Simply Red | 17:04 |
-| One Man One Vote | Johnny Clegg & Savuka | 17:08 |
-| You Choose | Pet Shop Boys | 17:13 |
-| When You Say Nothing at All | Ronan Keating | 17:17 |
-| Question time for the proles | Compulsion | 17:22 |
-| Undecided	| The Magic Numbers | 17:28 |
-| Don’t Give It Up | Wilsn | 17:35 |
-| Veronica | Elvis Costello | 17:40 |
-| Goodbye Isaac | Questlove | 17:45 |
-| The Only Ones | Moloko | 17:51 |
-| Party For One	| Carly Rae Jepsen | 17:56 |
+| Track                        | Artist                | Time  |
+|------------------------------|-----------------------|-------|
+| Something Got Me Started     | Simply Red            | 17:04 |
+| One Man One Vote             | Johnny Clegg & Savuka | 17:08 |
+| You Choose                   | Pet Shop Boys         | 17:13 |
+| When You Say Nothing at All  | Ronan Keating         | 17:17 |
+| Question time for the proles | Compulsion            | 17:22 |
+| Undecided                    | The Magic Numbers     | 17:28 |
+| Don’t Give It Up             | Wilsn                 | 17:35 |
+| Veronica                     | Elvis Costello        | 17:40 |
+| Goodbye Isaac                | Questlove             | 17:45 |
+| The Only Ones                | Moloko                | 17:51 |
+| Party For One                | Carly Rae Jepsen      | 17:56 |
 
 ## About The 3.5mm cable
 

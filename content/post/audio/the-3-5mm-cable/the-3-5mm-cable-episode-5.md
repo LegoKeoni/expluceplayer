@@ -27,14 +27,14 @@ duration = 60
 
 ## Tracklist
 
-| Track | Artist | Time |
-| --- | --- | --- |
-| We Belong Together (From “Toy Story 3”) | Randy Newman | 14:05 |
-| Green Onions | Booker T. & the MG’s | 14:10 |
-| Finally | CeCe Peniston | 14:17 |
-| How Long | Ace | 14:27 |
-| Snowman | Sia | 14:39 |
-| Give Me Your Love | Sigala feat. John Newman & Nile Rodgers | 14:52 |
+| Track                                   | Artist                                  | Time  |
+|-----------------------------------------|-----------------------------------------|-------|
+| We Belong Together (From “Toy Story 3”) | Randy Newman                            | 14:05 |
+| Green Onions                            | Booker T. & the MG’s                    | 14:10 |
+| Finally                                 | CeCe Peniston                           | 14:17 |
+| How Long                                | Ace                                     | 14:27 |
+| Snowman                                 | Sia                                     | 14:39 |
+| Give Me Your Love                       | Sigala feat. John Newman & Nile Rodgers | 14:52 |
 
 ## About The 3.5mm cable
 

@@ -28,16 +28,16 @@ duration = 60
 
 ## Tracklist
 
-| Track | Artist | Time |
-| --- | --- | --- |
-| The Nurse Who Loved Me | A Perfect Circle | 21:05 |
-| Enter Sandman | Metallica | 21:14 |
-| Valerie (feat. Amy Winehouse) | Mark Ronson | 21:28 |
-| Valerie | Steve Winwood | 21:31 |
-| I Think We’re Alone Now | Girls Aloud | 21:36 |
-| Fioled | Sŵnami | 21:44 |
-| Merry Christmas Everyone (Radio Edit)	| Shakin’ Stevens | 21:50 |
-| Feeling Lonely | boy pablo | 21:56 |
+| Track                                 | Artist           | Time  |
+|---------------------------------------|------------------|-------|
+| The Nurse Who Loved Me                | A Perfect Circle | 21:05 |
+| Enter Sandman                         | Metallica        | 21:14 |
+| Valerie (feat. Amy Winehouse)         | Mark Ronson      | 21:28 |
+| Valerie                               | Steve Winwood    | 21:31 |
+| I Think We’re Alone Now               | Girls Aloud      | 21:36 |
+| Fioled                                | Sŵnami           | 21:44 |
+| Merry Christmas Everyone (Radio Edit) | Shakin’ Stevens  | 21:50 |
+| Feeling Lonely                        | boy pablo        | 21:56 |
 
 ## About Take it to the Rugs
 

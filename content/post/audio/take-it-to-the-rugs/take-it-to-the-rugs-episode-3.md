@@ -27,16 +27,16 @@ duration = 60
 
 ## Tracklist
 
-| Track | Artist | Time |
-| --- | --- | --- |
-| Cut Some Rug | The Bluetones | 21:04 |
-| Wii Moo Moo Meadows | Mario Kart Band | 21:12 |
-| Back of the Van | Ladyhawke | 21:18 |
-| Perpetuum Mobile | Penguin Cafe Orchestra | 21:26 |
-| Hallelujah (Album Version) | Rufus Wainwright | 21:35 |
-| Suspicious Minds | Elvis Presley | 21:41 |
-| Loco In Acapulco | Four Tops | 21:47 |
-| 『82.99 F.M』 | マクロスMACROSS 82-99 | 21:54 |
+| Track                      | Artist                 | Time  |
+|----------------------------|------------------------|-------|
+| Cut Some Rug               | The Bluetones          | 21:04 |
+| Wii Moo Moo Meadows        | Mario Kart Band        | 21:12 |
+| Back of the Van            | Ladyhawke              | 21:18 |
+| Perpetuum Mobile           | Penguin Cafe Orchestra | 21:26 |
+| Hallelujah (Album Version) | Rufus Wainwright       | 21:35 |
+| Suspicious Minds           | Elvis Presley          | 21:41 |
+| Loco In Acapulco           | Four Tops              | 21:47 |
+| 『82.99 F.M』              | マクロスMACROSS 82-99   | 21:54 |
 
 
 ## About Take it to the Rugs

@@ -27,19 +27,19 @@ duration = 60
 
 ## Tracklist
 
-| Track | Artist | Time |
-| --- | --- | --- |
-| Are You Gonna Be My Girl?	| Jet | 12:03 |
-| Daydream Believer	| The Monkees | 12:09 |
-| Lone Digger | Caravan Palace | 12:12 |
-| Wolves | Coasts | 12:18 |
-| Kids | One Republic | 12:22 |
-| The House of the Rising Sun | The Animals | 12:26 |
-| Space Oddity | David Bowie | 12:34 |
-| Take Her Place | Don Diablo & A R I Z O N A | 12:44 |
-| Sign Language | Vistas | 12:48 |
-| Come and Get Your Love | Redbone | 12:52 |
-| In-between | Lily Moore ft. Maverick Sabre | 12:57 |
+| Track                       | Artist                        | Time  |
+|-----------------------------|-------------------------------|-------|
+| Are You Gonna Be My Girl?   | Jet                           | 12:03 |
+| Daydream Believer           | The Monkees                   | 12:09 |
+| Lone Digger                 | Caravan Palace                | 12:12 |
+| Wolves                      | Coasts                        | 12:18 |
+| Kids                        | One Republic                  | 12:22 |
+| The House of the Rising Sun | The Animals                   | 12:26 |
+| Space Oddity                | David Bowie                   | 12:34 |
+| Take Her Place              | Don Diablo & A R I Z O N A    | 12:44 |
+| Sign Language               | Vistas                        | 12:48 |
+| Come and Get Your Love      | Redbone                       | 12:52 |
+| In-between                  | Lily Moore ft. Maverick Sabre | 12:57 |
 
 ## About The 3.5mm cable
 

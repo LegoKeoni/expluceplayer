@@ -27,19 +27,19 @@ duration = 60
 
 ## Tracklist
 
-| Track	| Artist | Time |
-| --- | --- | --- |
-| Sax | Fleur East | 12:04 | 
-| I Won’t Let You Down | OK Go | 12:09 |
-| Chelsea Dagger | The Fratellis | 12:15 |
-| Mean It | Lauv & LANY | 12:18 |
-| Wind Of Change | The Scorpions | 12:24 |
-| Come and Get Your Love | Redbone | 12:32 |
-| It Wasn’t Me | Shaggy | 12:36 |
-| This Love | Maroon 5 | 12:41 |
-| On Top of the World | Imagine Dragons | 12:47 |
-| Shut Up and Dance | Walk the Moon	| 12:53 |
-| In-between | Lily Moore ft. Maverick Sabre | 12:57 |
+| Track                  | Artist                        | Time  |
+|------------------------|-------------------------------|-------|
+| Sax                    | Fleur East                    | 12:04 |
+| I Won’t Let You Down   | OK Go                         | 12:09 |
+| Chelsea Dagger         | The Fratellis                 | 12:15 |
+| Mean It                | Lauv & LANY                   | 12:18 |
+| Wind Of Change         | The Scorpions                 | 12:24 |
+| Come and Get Your Love | Redbone                       | 12:32 |
+| It Wasn’t Me           | Shaggy                        | 12:36 |
+| This Love              | Maroon 5                      | 12:41 |
+| On Top of the World    | Imagine Dragons               | 12:47 |
+| Shut Up and Dance      | Walk the Moon                 | 12:53 |
+| In-between             | Lily Moore ft. Maverick Sabre | 12:57 |
 
 ## About Line in
 

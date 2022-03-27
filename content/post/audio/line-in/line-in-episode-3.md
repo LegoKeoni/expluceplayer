@@ -27,14 +27,14 @@ duration = 60
 
 ## Tracklist
 
-| Track	| Artist | Time |
-| --- | --- | --- |
-| True Survivor	| David Hasselhoff | 12:07 |
-| Lovin' You | Minnie Riperton | 12:13 |
-| Closer | Sea Girls | 12:25 |
-| Run | OneRepublic | 12:32 |
-| The Whole of the Moon | The Waterboys | 12:40 |
-| Summer | Calvin Harris | 12:51 |
+| Track                 | Artist           | Time  |
+|-----------------------|------------------|-------|
+| True Survivor         | David Hasselhoff | 12:07 |
+| Lovin' You            | Minnie Riperton  | 12:13 |
+| Closer                | Sea Girls        | 12:25 |
+| Run                   | OneRepublic      | 12:32 |
+| The Whole of the Moon | The Waterboys    | 12:40 |
+| Summer                | Calvin Harris    | 12:51 |
 
 ## About Line in
 

@@ -28,15 +28,15 @@ duration = 60
 
 ## Tracklist
 
-| Track | Artist | Time |
-| --- | --- | --- |
-| Wake Me Up Before You Go-Go | Wham! | 21:04 |
-| Escape (The Pina Colada Song) | Rupert Holmes | 21:11 |
-| Tease	| Ralph | 21:22 |
-| Take My Breath Away | Berlin | 21:30 |
-| Like a Dying Rose | Alice on the roof | 21:39 |
-| Jump | Girls Aloud | 21:42 |
-| Another One Bites the Dust | Queen | 21:53 |
+| Track                         | Artist            | Time  |
+|-------------------------------|-------------------|-------|
+| Wake Me Up Before You Go-Go   | Wham!             | 21:04 |
+| Escape (The Pina Colada Song) | Rupert Holmes     | 21:11 |
+| Tease                         | Ralph             | 21:22 |
+| Take My Breath Away           | Berlin            | 21:30 |
+| Like a Dying Rose             | Alice on the roof | 21:39 |
+| Jump                          | Girls Aloud       | 21:42 |
+| Another One Bites the Dust    | Queen             | 21:53 |
 
 ## About Take it to the Rugs
 

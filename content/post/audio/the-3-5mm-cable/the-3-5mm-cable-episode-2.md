@@ -27,16 +27,16 @@ duration = 60
 
 ## Tracklist
 
-| Track | Artist | Time |
-| --- | --- | --- |
-| Just Got Paid (feat. French Montana) | Sigala, Ella Eyre & Meghan Trainor | 12:07 |
-| The Power of Love	| Huey Lewis & The News | 12:12 |
-| Ultralife | Oh Wonder | 12:20 |
-| Lake Shore Drive | Aliotta Haynes Jeremiah | 12:23 |
-| Holiday | Madonna | 12:28 |
-| It’s Not Living (If It’s Not With You) | The 1975 | 12:35 |
-| Big Yellow Taxi | Counting Crows | 12:42 |
-| Unwritten | Natasha Bedingfield | 12:46 |
+| Track                                  | Artist                             | Time  |
+|----------------------------------------|------------------------------------|-------|
+| Just Got Paid (feat. French Montana)   | Sigala, Ella Eyre & Meghan Trainor | 12:07 |
+| The Power of Love                      | Huey Lewis & The News              | 12:12 |
+| Ultralife                              | Oh Wonder                          | 12:20 |
+| Lake Shore Drive                       | Aliotta Haynes Jeremiah            | 12:23 |
+| Holiday                                | Madonna                            | 12:28 |
+| It’s Not Living (If It’s Not With You) | The 1975                           | 12:35 |
+| Big Yellow Taxi                        | Counting Crows                     | 12:42 |
+| Unwritten                              | Natasha Bedingfield                | 12:46 |
 
 ## About The 3.5mm cable
 

@@ -27,18 +27,18 @@ duration = 60
 
 ## Tracklist
 
-| Track | Artist | Time |
-| --- | --- | --- |
-| Life Is A Rollercoaster | Ronan Keating | 12:03 |
-| Why Does It Always Rain on Me? | Travis | 12:07 |
-| Under Pressure | Jedward | 12:12 |
+| Track                                    | Artist                                            | Time  |
+|------------------------------------------|---------------------------------------------------|-------|
+| Life Is A Rollercoaster                  | Ronan Keating                                     | 12:03 |
+| Why Does It Always Rain on Me?           | Travis                                            | 12:07 |
+| Under Pressure                           | Jedward                                           | 12:12 |
 | Islands in the Stream [For Comic Relief] | Bryn West; Robin Gibb; Tom Jones; Vanessa Jenkins | 12:17 |
-| Only You | Yazoo | 12:21 |
-| This Life | Vampire Weekend | 12:28 |
-| Waiting for Love | Avicii | 12:34 |
-| Driving Home – Radio Edit | Sukko | 12:39 |
-| This Is Not A Lovesong | Delilah Montagu | 12:48 |
-| Hit Me With Your Rhythm Stick | Ian Dury and the Blockheads | 12:53 |
+| Only You                                 | Yazoo                                             | 12:21 |
+| This Life                                | Vampire Weekend                                   | 12:28 |
+| Waiting for Love                         | Avicii                                            | 12:34 |
+| Driving Home – Radio Edit                | Sukko                                             | 12:39 |
+| This Is Not A Lovesong                   | Delilah Montagu                                   | 12:48 |
+| Hit Me With Your Rhythm Stick            | Ian Dury and the Blockheads                       | 12:53 |
 
 ## About The 3.5mm cable
 

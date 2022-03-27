@@ -28,15 +28,15 @@ duration = 60
 
 ## Tracklist
 
-| Track | Artist | Time |
-| --- | --- | --- |
-| Needle in the Rug | Edwin | 21:04 |
-| Dancing in the Dark | Bruce Springsteen | 21:12 |
-| Inner Smile | Texas | 21:16 |
-| Indiana | Louis Armstrong | 21:25 |
-| Don’t Stop Movin’ | S Club 7 | 21:36 |
-| Papa’s Got a Brand New Pigbag (12″ Version) | Pigbag | 21:44 |
-| Word Up | Cameo | 21:53 |
+| Track                                       | Artist            | Time  |
+|---------------------------------------------|-------------------|-------|
+| Needle in the Rug                           | Edwin             | 21:04 |
+| Dancing in the Dark                         | Bruce Springsteen | 21:12 |
+| Inner Smile                                 | Texas             | 21:16 |
+| Indiana                                     | Louis Armstrong   | 21:25 |
+| Don’t Stop Movin’                           | S Club 7          | 21:36 |
+| Papa’s Got a Brand New Pigbag (12″ Version) | Pigbag            | 21:44 |
+| Word Up                                     | Cameo             | 21:53 |
 
 ## About Take it to the Rugs
 

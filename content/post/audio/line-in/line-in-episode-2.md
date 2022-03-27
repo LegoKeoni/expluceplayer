@@ -27,18 +27,18 @@ duration = 60
 
 ## Tracklist
 
-| Track	| Artist | Time |
-| --- | --- | --- |
-| Fred Astaire | Jukebox The Ghost | 12:06 |
-| Don’t Stop Believin’ | Journey | 12:10 |
-| Paradise | George Ezra | 12:19 |
-| Guiding Light	| Mumford & Sons | 12:24 |
-| Lemon Tree | Fool’s Garden | 12:27 |
+| Track                        | Artist                             | Time  |
+|------------------------------|------------------------------------|-------|
+| Fred Astaire                 | Jukebox The Ghost                  | 12:06 |
+| Don’t Stop Believin’         | Journey                            | 12:10 |
+| Paradise                     | George Ezra                        | 12:19 |
+| Guiding Light                | Mumford & Sons                     | 12:24 |
+| Lemon Tree                   | Fool’s Garden                      | 12:27 |
 | Tiny Dancer (Hold Me Closer) | Ironik Feat. Chipmunk & Elton John | 12:35 |
-| St. Elmo’s Fire | John Parr | 12:44 |
-| Stay | Zedd & Alessia Cara | 12:49 |
-| Reading Rainbow | Psychostick	| 12:55 |
-| Dancing Lasha Tumbai | Verka Serduchka | 12:56 |
+| St. Elmo’s Fire              | John Parr                          | 12:44 |
+| Stay                         | Zedd & Alessia Cara                | 12:49 |
+| Reading Rainbow              | Psychostick                        | 12:55 |
+| Dancing Lasha Tumbai         | Verka Serduchka                    | 12:56 |
 
 ## About Line in
 

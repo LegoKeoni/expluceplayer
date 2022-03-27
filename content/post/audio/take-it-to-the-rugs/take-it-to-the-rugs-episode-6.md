@@ -27,15 +27,15 @@ duration = 60
 
 ## Tracklist
 
-| Track | Artist | Time |
-| --- | --- | --- |
-| Scatman | Scatman John | 21:04 |
-| Someone New | Hozier | 21:12 |
-| No Right to Love You | Rhys Lewis | 21:16 |
-| Brown Eyed Girl | Van Morrison | 21:25 |
-| I Want to Be Loved By You	| Sinéad O’Connor | 21:29 |
-| Mr. Writer | Stereophonics | 21:39 |
-| Only If…	| Enya | 21:49 |
+| Track                     | Artist          | Time  |
+|---------------------------|-----------------|-------|
+| Scatman                   | Scatman John    | 21:04 |
+| Someone New               | Hozier          | 21:12 |
+| No Right to Love You      | Rhys Lewis      | 21:16 |
+| Brown Eyed Girl           | Van Morrison    | 21:25 |
+| I Want to Be Loved By You | Sinéad O’Connor | 21:29 |
+| Mr. Writer                | Stereophonics   | 21:39 |
+| Only If…                  | Enya            | 21:49 |
 
 ## About Take it to the Rugs
 
