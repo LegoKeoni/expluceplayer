@@ -22,7 +22,7 @@ duration = 60
 
 ## Episode synopsis
 
-**(4/6)** With Connor again producing, Keoni maintains a delightful rug-based conversation with our guest, Alize, talking about pizza and Turkish rug weaving, and features an unexpected playing of a seasonal tune.
+**(5/6)** With Connor again producing, Keoni maintains a delightful rug-based conversation with our guest, Alize, talking about pizza and Turkish rug weaving, and features an unexpected playing of a seasonal tune.
 
 **First aired**: 9pm-10pm, Wednesday 10th March 2021
 
