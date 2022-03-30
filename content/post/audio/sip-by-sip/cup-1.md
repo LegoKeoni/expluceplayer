@@ -15,7 +15,7 @@ duration = 29
 
 ## Play
 
-
+{{< podcast-player cup="cup-1-envivo-lungo-potent-and-caramelised" id="id1509002743?i=1000472050460&theme=auto" >}}
 
 ## About this cup
 
