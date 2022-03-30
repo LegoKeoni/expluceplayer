@@ -2,7 +2,7 @@
 author = "Keoni D'Souza"
 title = "Cup 2, Kazaar: Exceptionally intense and syrupy"
 date = "2020-04-17"
-description = "With Rachael"
+description = "With Rachael Clayton"
 categories = ["audio"]
 series = ["Sip by Sip"]
 tags = [
