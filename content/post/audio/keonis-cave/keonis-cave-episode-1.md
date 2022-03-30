@@ -11,7 +11,7 @@ tags = [
     "Mya Dowdall",
     "URY"
 ]
-image = "post/audio/keonis-cave/cave.webp"
+image = "post/audio/keonis-cave/keonis-cave.png"
 slug = "keonis-cave/episode-1"
 duration = 120
 +++
