@@ -2,7 +2,7 @@
 author = "Keoni D'Souza"
 title = "URY on FM: The Turn-on"
 date = "2021-09-01"
-description = "I wormed my way into the URY on FM celebrations!"
+description = "I join Station Manager Alice in the second half of the FM Turn-on show and she tries to keep me in check."
 categories = ["audio"]
 series = ["Appearance on Other Shows"]
 tags = [
