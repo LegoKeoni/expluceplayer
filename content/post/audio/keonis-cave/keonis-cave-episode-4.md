@@ -6,7 +6,6 @@ description = "(4/6) Four shows down and there’s only two of us left! Join me 
 categories = ["audio"]
 series = ["Keoni's Cave"]
 tags = [
-    "Alex Potts",
     "Isaac Lowe",
     "URY"
 ]
