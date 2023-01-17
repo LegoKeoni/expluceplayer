@@ -7,6 +7,7 @@ categories = ["audio"]
 series = ["In Good Company"]
 tags = [
     "Isaac Lowe",
+    "Goodbye URY",
     "URY"
 ]
 image = "post/audio/in-good-company/in-good-company.png"
