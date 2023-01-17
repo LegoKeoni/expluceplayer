@@ -2,7 +2,7 @@
 author = "Keoni D'Souza"
 title = "In Good Company, Episode 3"
 date = "2021-06-22"
-description = "(2/10) Join me for a show with a different person every day. This time, it’s Sophie Bolwell-Davies."
+description = "(3/10) Join me for a show with a different person every day. This time, it’s Sophie Bolwell-Davies."
 categories = ["audio"]
 series = ["In Good Company"]
 tags = [

@@ -2,7 +2,7 @@
 author = "Keoni D'Souza"
 title = "In Good Company, Episode 4"
 date = "2021-06-23"
-description = "(2/10) Join me for a show with a different person every day. This time, it’s Mya Dowdall."
+description = "(4/10) Join me for a show with a different person every day. This time, it’s Mya Dowdall."
 categories = ["audio"]
 series = ["In Good Company"]
 tags = [
@@ -22,7 +22,7 @@ duration = 60
 
 ## Episode synopsis
 
-**(3/10)** Join me for a show with a different person every day. This time, it’s Mya Dowdall.
+**(4/10)** Join me for a show with a different person every day. This time, it’s Mya Dowdall.
 
 **First aired**: 10am-11am, Wednesday 23rd June 2021
 
