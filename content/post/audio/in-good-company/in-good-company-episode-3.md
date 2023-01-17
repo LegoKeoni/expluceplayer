@@ -22,7 +22,7 @@ duration = 60
 
 ## Episode synopsis
 
-**(3/10)** Join me for a show with a different person every day. This time, it’s Sophie Bolwell-Davies
+**(3/10)** Join me for a show with a different person every day. This time, it’s Sophie Bolwell-Davies.
 
 **First aired**: 10am-11am, Tuesday 22nd June 2021
 
