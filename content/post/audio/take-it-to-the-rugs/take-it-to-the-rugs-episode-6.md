@@ -7,7 +7,7 @@ categories = ["audio"]
 series = ["Take it to the Rugs"]
 tags = [
     "Alex Potts",
-    "Rhys Milling"
+    "Rhys Milling",
     "URY"
 ]
 image = "post/audio/take-it-to-the-rugs/take-it-to-the-rugs.png"

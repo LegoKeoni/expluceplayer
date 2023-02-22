@@ -8,7 +8,7 @@ series = ["Take it to the Rugs"]
 tags = [
     "Connor Sanders",
     "Joe Radford",
-    "Sophie Bolwell-Davies"
+    "Sophie Bolwell-Davies",
     "URY"
 ]
 image = "post/audio/take-it-to-the-rugs/take-it-to-the-rugs.png"
