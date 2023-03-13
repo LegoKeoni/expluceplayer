@@ -2,7 +2,7 @@
 author = "Keoni D'Souza"
 title = "The 3.5mm cable, Episode 3"
 date = "2021-02-23"
-description = "(3/5) I forgot to set my alarm for this episode, so I woke up at 11:58, a mere two minutes before the show! Tune in for a last minute appearance from agony uncle sensation, Grill Gary."
+description = "(3/5) It's a lamp special!"
 categories = ["audio"]
 series = ["The 3.5mm cable"]
 tags = [
