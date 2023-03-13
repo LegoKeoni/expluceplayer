@@ -1,43 +1,40 @@
 +++
 author = "Keoni D'Souza"
-title = "In Good Company, Episode 8"
-date = "2021-06-24"
-description = "(8/10) Join me for a show with a different person every day. This time, it’s Rhys Milling."
+title = "In Good Company, Episode 9"
+date = "2021-06-25"
+description = "(9/10) Join me for a show with a different person every day. This time, it’s Niamh Fenn."
 categories = ["audio"]
 series = ["In Good Company"]
 tags = [
-    "Rhys Milling",
-    "Sam Randewich",
+    "Niamh Fenn",
     "Goodbye URY",
     "URY"
 ]
 image = "post/audio/in-good-company/in-good-company.png"
-slug = "in-good-company/episode-8"
+slug = "in-good-company/episode-9"
 duration = 60
 +++
 
 ## Play
 
-{{< mixcloud-player user="URY1350" show="in-good-company-24062021-2" >}}
+{{< mixcloud-player user="URY1350" show="in-good-company-25062021" >}}
 
 ## Episode synopsis
 
-**(8/10)** Join me for a show with a different person every day. This time, it’s Rhys Milling.
+**(9/10)** Join me for a show with a different person every day. This time, it’s Niamh Fenn.
 
-**First aired**: 10pm-11pm, Thursday 24th June 2021
+**First aired**: 6pm-7pm, Friday 25th June 2021
 
 ## Tracklist
 
-| Track                              | Artist         | Time  |
-|------------------------------------|----------------|-------|
-| Rasputin                           | Boney M.       | 22:02 |
-| True                               | Spandau Ballet | 22:09 |
-| Wake Me Up Before You Go-Go        | Wham!          | 22:18 |
-| Down Under                         | Men at Work    | 22:25 |
-| Top Of The World                   | Carpenters     | 22:32 |
-| Stayin’ Alive                      | Bee Gees       | 22:39 |
-| Let’s Get It On                    | Marvin Gaye    | 22:47 |
-| Face to Face (Cosmo Vitelli remix) | Daft Punk      | 22:54 |
+| Track                      | Artist            | Time  |
+|----------------------------|-------------------|-------|
+| Enter Sandman              | Metallica         | 18:02 |
+| Emily Tries [URY Sessions] | Flora Greysteel   | 18:13 |
+| Chop Suey!                 | System of a Down  | 18:23 |
+| Bath                       | The Divine Comedy | 18:35 |
+| The Chain                  | Fleetwood Mac     | 18:43 |
+| Waterfalls                 | TLC               | 18:55 |
 
 ## About In Good Company
 
@@ -59,15 +56,7 @@ duration = 60
             Guest
         {{< /td >}}
         {{< td >}}
-            Rhys Milling
-        {{< /td >}}
-    {{< /tr >}}
-    {{< tr >}}
-        {{< td >}}
-            Driver
-        {{< /td >}}
-        {{< td >}}
-            Sam Randewich
+            Niamh Fenn
         {{< /td >}}
     {{< /tr >}}
 {{< /table >}}
