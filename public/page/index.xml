@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Expluce Player</title>
-        <link>https://beta.expluceplayer.co.uk/page.html</link>
+        <link>https://expluceplayer.co.uk/page.html</link>
         <description>Recent content in Pages on Expluce Player</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 16 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://beta.expluceplayer.co.uk/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 16 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://expluceplayer.co.uk/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About</title>
-        <link>https://beta.expluceplayer.co.uk/about.html</link>
+        <link>https://expluceplayer.co.uk/about.html</link>
         <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://beta.expluceplayer.co.uk/about.html</guid>
+        <guid>https://expluceplayer.co.uk/about.html</guid>
         <description>&lt;h2 id=&#34;welcome&#34;&gt;Welcome&lt;/h2&gt;
 &lt;p&gt;Welcome to &lt;strong&gt;Expluce Player&lt;/strong&gt;, the home of audiovisual content from the mind of me - Keoni D&amp;rsquo;Souza!&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve contributed to an ever-increasing collection of radio shows, podcasts and have presented a handful of recorded productions. I am - slowly, but surely - updating this site so that people (mainly me&amp;hellip;) can enjoy my unimitable brand of top-quality low-quality content.&lt;/p&gt;
@@ -26,18 +26,18 @@
         </item>
         <item>
         <title>Archives</title>
-        <link>https://beta.expluceplayer.co.uk/archives.html</link>
+        <link>https://expluceplayer.co.uk/archives.html</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://beta.expluceplayer.co.uk/archives.html</guid>
+        <guid>https://expluceplayer.co.uk/archives.html</guid>
         <description></description>
         </item>
         <item>
         <title>Search</title>
-        <link>https://beta.expluceplayer.co.uk/search.html</link>
+        <link>https://expluceplayer.co.uk/search.html</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://beta.expluceplayer.co.uk/search.html</guid>
+        <guid>https://expluceplayer.co.uk/search.html</guid>
         <description></description>
         </item>
         
