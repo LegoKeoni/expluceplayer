@@ -1,4 +1,4 @@
-baseurl: https://beta.expluceplayer.co.uk
+baseurl: https://expluceplayer.co.uk
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
