@@ -18,7 +18,7 @@ tags = [
     "URY"
 ]
 image = "post/audio/appearances-on-other-shows/ury-on-fm-the-turn-on.jpeg"
-slug = "audio/ury-on-fm-the-turn-on"
+slug = "audio/other-shows/ury-on-fm-the-turn-on"
 duration = 120
 +++
 
