@@ -19,7 +19,7 @@ duration = 44
 
 ## About this cup
 
-The third cup brings together two people who haven’t spoken in yonks. João and I discuss bourbon(s) (creams) and Asda Smart Price meatballs, and play another game with maracas that had to be cut short and shoved into another episode because we were going on for too long! Today’s coffee – an intensity of 8 – comes from Taylors of Harrogate, who describe this coffee as “a big, beautiful Brazilian roast, like sinking your teeth into a hazelnut praline.”
+The **third cup** brings together two people who haven’t spoken in yonks. João and I discuss bourbon(s) (creams) and Asda Smart Price meatballs, and play another game with maracas that had to be cut short and shoved into another episode because we were going on for too long! Today’s coffee – an intensity of 8 – comes from Taylors of Harrogate, who describe this coffee as “a big, beautiful Brazilian roast, like sinking your teeth into a hazelnut praline.”
 
 **Recorded**: Wednesday 25th March 2020
 
