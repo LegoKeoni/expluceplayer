@@ -4,7 +4,7 @@ title = "URY on FM: The Turn-on"
 date = "2021-09-01"
 description = "I join Station Manager Alice in the second half of the FM Turn-on show and she tries to keep me in check."
 categories = ["audio"]
-series = ["Appearance on Other Shows"]
+series = ["Appearances on Other Shows"]
 tags = [
     "Alex Towells",
     "Alice Milburn",
