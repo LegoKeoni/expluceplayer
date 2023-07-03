@@ -14,7 +14,7 @@ tags = [
     "YSTV"
 ]
 image = "post/video/ystv-arts-and-crafts-episode-1.webp"
-slug = "ystv-arts-and-crafts-episode-1"
+slug = "video/ystv-arts-and-crafts-episode-1"
 duration = 91
 +++
 

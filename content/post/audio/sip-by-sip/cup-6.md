@@ -9,7 +9,7 @@ tags = [
     "Molly Ahern"
 ]
 image = "post/audio/sip-by-sip/sip-by-sip.webp"
-slug = "sip-by-sip/cup-6"
+slug = "audio/sip-by-sip/cup-6"
 duration = 57
 +++
 

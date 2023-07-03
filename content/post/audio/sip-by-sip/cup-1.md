@@ -9,7 +9,7 @@ tags = [
     "Jasper Hubbard"
 ]
 image = "post/audio/sip-by-sip/sip-by-sip.webp"
-slug = "sip-by-sip/cup-1"
+slug = "audio/sip-by-sip/cup-1"
 duration = 29
 +++
 

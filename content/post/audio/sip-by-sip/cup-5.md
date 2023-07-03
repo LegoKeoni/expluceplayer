@@ -9,7 +9,7 @@ tags = [
     "Jimmy Antony"
 ]
 image = "post/audio/sip-by-sip/sip-by-sip.webp"
-slug = "sip-by-sip/cup-5"
+slug = "audio/sip-by-sip/cup-5"
 duration = 40
 +++
 

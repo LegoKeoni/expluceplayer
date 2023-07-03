@@ -12,7 +12,7 @@ tags = [
     "URY"
 ]
 image = "post/audio/centralised-breakfast-function/breakfast.webp"
-slug = "centralised-breakfast-function/episode-1"
+slug = "audio/centralised-breakfast-function/episode-1"
 duration = 60
 +++
 

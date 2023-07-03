@@ -12,7 +12,7 @@ tags = [
     "URY"
 ]
 image = "post/audio/keonis-cave/keonis-cave.png"
-slug = "keonis-cave/episode-1"
+slug = "audio/keonis-cave/episode-1"
 duration = 120
 +++
 

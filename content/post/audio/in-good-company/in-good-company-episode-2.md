@@ -12,7 +12,7 @@ tags = [
     "URY"
 ]
 image = "post/audio/in-good-company/in-good-company.png"
-slug = "in-good-company/episode-2"
+slug = "audio/in-good-company/episode-2"
 duration = 60
 +++
 

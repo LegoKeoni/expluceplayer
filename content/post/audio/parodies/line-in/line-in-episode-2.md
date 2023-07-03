@@ -11,7 +11,7 @@ tags = [
     "URY"
 ]
 image = "post/audio/line-in/line-in-artwork.png"
-slug = "line-in/episode-2"
+slug = "audio/parodies/line-in/episode-2"
 duration = 60
 +++
 

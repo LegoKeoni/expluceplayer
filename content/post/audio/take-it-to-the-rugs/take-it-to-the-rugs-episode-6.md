@@ -11,7 +11,7 @@ tags = [
     "URY"
 ]
 image = "post/audio/take-it-to-the-rugs/take-it-to-the-rugs.png"
-slug = "take-it-to-the-rugs/episode-6"
+slug = "audio/take-it-to-the-rugs/episode-6"
 duration = 60
 +++
 

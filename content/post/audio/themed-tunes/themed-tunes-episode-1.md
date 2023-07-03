@@ -10,7 +10,7 @@ tags = [
     "URY"
 ]
 image = "post/audio/themed-tunes/themed-tunes.png"
-slug = "themed-tunes/feelin-fruiti"
+slug = "audio/themed-tunes/feelin-fruiti"
 duration = 60
 +++
 

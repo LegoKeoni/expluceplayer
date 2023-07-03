@@ -11,7 +11,7 @@ tags = [
     "URY"
 ]
 image = "post/audio/the-3-5mm-cable/the-6-35mm-cable-artwork.webp"
-slug = "the-3-5mm-cable/the-6-35mm-cable"
+slug = "audio/parodies/the-3-5mm-cable/the-6-35mm-cable"
 duration = 60
 +++
 

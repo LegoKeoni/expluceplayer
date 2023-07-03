@@ -9,7 +9,7 @@ tags = [
     "João Pereira"
 ]
 image = "post/audio/sip-by-sip/sip-by-sip.webp"
-slug = "sip-by-sip/cup-3"
+slug = "audio/sip-by-sip/cup-3"
 duration = 44
 +++
 

@@ -11,7 +11,7 @@ tags = [
     "URY"
 ]
 image = "post/audio/the-3-5mm-cable/the-3-5mm-cable.png"
-slug = "the-3-5mm-cable/episode-5"
+slug = "audio/parodies/the-3-5mm-cable/episode-5"
 duration = 60
 +++
 

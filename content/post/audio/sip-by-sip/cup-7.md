@@ -9,7 +9,7 @@ tags = [
     "Callum Morrison"
 ]
 image = "post/audio/sip-by-sip/sip-by-sip.webp"
-slug = "sip-by-sip/cup-7"
+slug = "audio/sip-by-sip/cup-7"
 duration = 56
 +++
 
