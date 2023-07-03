@@ -10,7 +10,7 @@ tags = [
     "The Ben Allen Trilogy",
     "URY"
 ]
-image = "post/audio/the-3-5mm-cable/the-3-5mm-cable.png"
+image = "post/audio/parodies/the-3-5mm-cable/the-3-5mm-cable.png"
 slug = "audio/parodies/the-3-5mm-cable/episode-3"
 duration = 60
 +++

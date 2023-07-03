@@ -10,7 +10,7 @@ tags = [
     "The Ben Allen Trilogy",
     "URY"
 ]
-image = "post/audio/line-in/line-in-artwork.png"
+image = "post/audio/parodies/line-in/line-in-artwork.png"
 slug = "audio/parodies/line-in/episode-1"
 duration = 60
 +++
