@@ -57,10 +57,10 @@ widget:
 
 search:
     title:
-        other: Search
+        other: Exploogle Search
 
     placeholder:
-        other: Type something...
+        other: Find some delicious content...
 
     resultTitle:
         other: "#PAGES_COUNT pages (#TIME_SECONDS seconds)"
