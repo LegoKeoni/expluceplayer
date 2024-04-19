@@ -3,6 +3,6 @@ Top-quality low-quality audiovisual content from Keoni D'Souza
 
 People likes READMEs, so here's one.
 
-## Development site
+# Live site
 
-Currently live [here](https://beta.expluceplayer.co.uk)
+Currently live [here](https://expluceplayer.co.uk)
