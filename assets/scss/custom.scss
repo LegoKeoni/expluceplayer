@@ -3,6 +3,19 @@
     src:url("/4660b661-e52c-4125-93ac-4eccc802c566.woff2") format("woff2"),url("/dd6ea7a3-de86-4fa8-83f6-80a5305ca6c1.woff") format("woff");
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Parkinsans:wght@300..800&display=swap');
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 300 to 800
+
+.parkinsans-variable {
+    font-family: "Parkinsans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+  }
+
 h1, h2, h3, h4, h5, h6 {
-        font-family: "Merge Light"
+        //font-family: "Merge Light"
+        font-family: Parkinsans;
     }
